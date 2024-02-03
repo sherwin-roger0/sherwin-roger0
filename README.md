@@ -1,4 +1,5 @@
 #  Coding Maestro 🚀💻
+![image](https://github.com/sherwin-roger0/sherwin-roger0/assets/50732268/7f1ad995-891d-4b67-9edc-ec611fae70b7)
 
 ## About Me
 👋 Greetings, fellow developers! I'm a 🎨 passionate coder deeply immersed in the world of 💻 web development and certified by Google as a 🤖 TensorFlow Developer. My journey involves creating seamless 🌐 web experiences and harnessing the power of AI to bring ideas to life.
