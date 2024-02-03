@@ -16,3 +16,4 @@
 
 **Happy Coding! 🖥️🌟**
 
+![Computer GIF](https://media0.giphy.com/media/gi84IkFRzwube/giphy.gif?cid=ecf05e47eidnvknxx1urxlyk6e49pv166yh6lwf8fumikgw3&ep=v1_gifs_related&rid=giphy.gif&ct=g)
