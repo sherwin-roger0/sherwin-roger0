@@ -3,7 +3,11 @@
 ![giffy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMwZjYxdTF5bTd6anRqNGRjemFzOWRncTNmZG5oaHRzdmdrMmpvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZrjGkr334fXa/giphy.gif)
 
 ## About Me
+
 👋 Greetings, fellow developers! I'm a 🎨 passionate coder deeply immersed in the world of 💻 web development and certified by Google as a 🤖 TensorFlow Developer. My journey involves creating seamless 🌐 web experiences and harnessing the power of AI to bring ideas to life.
+
+### Google Certified Tensorflow Developer
+![Screenshot (2)](https://github.com/sherwin-roger0/sherwin-roger0/assets/50732268/d47d44bd-5eda-47f6-8880-007b36241ab6)
 
 ## Skills
 - 💻 Proficient in a variety of languages, with a strong focus on Python, JavaScript, and more.
