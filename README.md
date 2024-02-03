@@ -1,4 +1,4 @@
-# 🌈 Coding Maestro 🚀💻
+# Coding Maestro 🚀💻
 
 ![giffy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMwZjYxdTF5bTd6anRqNGRjemFzOWRncTNmZG5oaHRzdmdrMmpvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZrjGkr334fXa/giphy.gif)
 
