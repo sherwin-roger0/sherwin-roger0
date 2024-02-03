@@ -1,4 +1,4 @@
-# 🌈 Coding Maestro 🚀💻
+#  Coding Maestro 🚀💻
 
 ## About Me
 👋 Greetings, fellow developers! I'm a 🎨 passionate coder deeply immersed in the world of 💻 web development and certified by Google as a 🤖 TensorFlow Developer. My journey involves creating seamless 🌐 web experiences and harnessing the power of AI to bring ideas to life.
